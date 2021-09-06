@@ -1,1 +1,1 @@
-![Alt text](/relative/path/to/screenshot.png?raw=true "Screenshot Pagina Home")
+![Alt text](https://raw.githubusercontent.com/leonardosprado/wp-hauforge/master/screenshot.png?raw=true "Screenshot Pagina Home")
